@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**moskysarah/moskysarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Sarah Ngoya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Student & Fullstack Developer
+I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea.academy).
+
+### 🛠 Technologies & Tools
+- **Languages**: JavaScript, HTML, CSS, Wordpress,TailwindCSS etc.
+- **Frameworks**: React, AdonisJS, Node.js, etc.
+- **Tools**: Git, etc.
+
+### 🔗 Social Links
+[![LinkedIn] https://www.linkedin.com/in/sarah-monic-ngoya-80b0322b1
+
+[![GitHub]  https://github.com/moskysarah
+
+![GitHub Followers](https://img.shields.io/github/followers/moskysarah?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/moskysarah?label=Stars&style=social)
+
+### 🔥 Pinned Projects
+Here are some of my featured repositories:
+
+- [Netflix-update](https://github.com/moskysarah/Netflix-update)  
+  A simple neflix page movie update with a new fonctions built with HTML and CSS.
+
+
+
+Thank you for visiting my profile! 😊
+
