@@ -11,9 +11,10 @@ I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea
 - **Tools**: Git, etc.
 
 ### 🔗 Social Links
-[![LinkedIn] https://www.linkedin.com/in/sarah-monic-ngoya-80b0322b1
 
-[![GitHub]  https://github.com/moskysarah
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarah-monic-ngoya-80b0322b1)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/moskysarah)
+
 
 ![GitHub Followers](https://img.shields.io/github/followers/moskysarah?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/moskysarah?label=Stars&style=social)
