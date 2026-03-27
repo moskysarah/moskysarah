@@ -13,6 +13,7 @@
 <div align="left">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </div>
+<div align="left" flex-direction="culumn">
 Hi 👋 I'm Sarah
 A passionate web developer who loves turning ideas into real-world projects.
 
@@ -27,7 +28,7 @@ A passionate web developer who loves turning ideas into real-world projects.
 ☕ Coffee fuels my coding sessions
 💻 I love building modern and creative web interfaces
 ---
-
+</div>
 ## 📬 Connect with Me
 
 <p align="left">
