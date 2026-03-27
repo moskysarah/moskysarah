@@ -43,7 +43,7 @@
 ## 🧠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,tailwind,python,kotlin,git,supabase,adonis,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,tailwind,python,kotlin,git,supabase,adonis,secure,figma&theme=dark" />
 </p>
 
 ---
