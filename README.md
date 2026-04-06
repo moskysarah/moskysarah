@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Developper+Frontend+%7C+Cyber+Security;Building+Security+SOC+%26+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
-
 <br/>
 
 <img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
