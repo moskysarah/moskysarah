@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sarah%20Ngoya%&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Data+Scientist;Building+LLM+Systems+%26+RAG+Pipelines;MSc+AI+%40+LUMS+%7C+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Developper+Frontend+%7C+Cyber+Security;Building+Security+SOC+%26+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
@@ -11,17 +11,22 @@
 <img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 <img align="right" src="spacer.png"/>
 
-<p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
+<p align="justify">
+Passionate Frontend Developer and UI/UX Designer with a strong interest in Machine Learning (ML), Deep Learning (DL), and Cybersecurity. I enjoy building responsive, user-friendly interfaces and continuously exploring intelligent and secure systems to create impactful digital experiences.
+</p>
 
 <br/><br/>
 
 <h2>About Me</h2>
 
-- 🤖 Building **LLM-based systems, RAG chatbots & AI agents**
-- 💻 All of my projects are available at [Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)
-- 💬 Ask me about **LLMs, RAG, LangChain, Deep Learning**
-- 📫 How to reach me **taimour.a.karim@gmail.com**
-- ⚡ Fun fact: I like Golf
+* 💻 Frontend Developer | 🎨 UI/UX Designer
+* 🤖 Passionate about **ML, DL & Cybersecurity**
+* 🌍 Building modern, responsive & intuitive web experiences
+* 💬 Ask me about **Frontend, UI/UX & Tech learning journey**
+* 📫 Contact: **[sarahmosky@gmail.com](mailto:sarahmosky@gmail.com)**
+* ☕ Coffee lover | 🎾 Tennis fan
+* 🎌 Otaku & in love with Japanese culture
+* ⚡ Favorite manga: **Naruto, Baki, Attack on Titan**
 
 <br/>
 
