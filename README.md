@@ -86,6 +86,6 @@ and secure systems to create impactful digital experiences.
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer&text=Thanks%20for%20Visiting%20👋/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer/>
 </p>
 
