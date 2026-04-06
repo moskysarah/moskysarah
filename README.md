@@ -10,7 +10,10 @@
 
 
 <p align="justify">
-Passionate Frontend Developer and UI/UX Designer with a strong interest in Machine Learning (ML), Deep Learning (DL), and Cybersecurity. I enjoy building responsive, user-friendly interfaces and continuously exploring intelligent and secure systems to create impactful digital experiences.
+Passionate Frontend Developer and UI/UX Designer with a strong interest in Machine Learning (ML),
+Deep Learning (DL), and Cybersecurity. 
+I enjoy building responsive, user-friendly interfaces and continuously exploring intelligent
+and secure systems to create impactful digital experiences.
 </p>
 
 <br/><br/>
@@ -83,7 +86,6 @@ Passionate Frontend Developer and UI/UX Designer with a strong interest in Machi
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer&text=Thanks%20for%20Visiting%20👋
-  &fontSize=26&fontColor=61DAFB&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer&text=Thanks%20for%20Visiting%20👋/>
 </p>
 
