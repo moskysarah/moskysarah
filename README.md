@@ -31,7 +31,7 @@ Passionate Frontend Developer and UI/UX Designer with a strong interest in Machi
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,bostrap,react,aws,git,github,postgres,mysql,&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,preact,react,aws,git,github,postgres,mysql,&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
