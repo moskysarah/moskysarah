@@ -8,7 +8,7 @@
 
 <img align="right" padding-right="50" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-<p align="justify">
+<p align="left">
   Passionate Frontend Developer and UI/UX Designer  and Cybersecurity (SOC). I enjoy building responsive, user-friendly interfaces
   and continuously exploring intelligent and secure systems to create impactful digital   experiences.
 </p>
