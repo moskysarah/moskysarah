@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" padding-right="30" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+<img align="right" padding-right="10" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
 <p align="left" padding-left="50">
   Passionate Frontend Developer and UI/UX Designer  and Cybersecurity (SOC). I enjoy building responsive, user-friendly interfaces
@@ -31,7 +31,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,mysql,&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,mysql,supabase,&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
