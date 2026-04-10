@@ -13,10 +13,10 @@
   and continuously exploring intelligent and secure systems to create impactful digital   experiences.
 </p>
 
-
+<br/><br/>
 
 <h2>About Me</h2>
-<br/><br/>
+
 * 💻 Frontend Developer | 🎨 UI/UX Designer
 * 🤖 Passionate about **ML, DL & Cybersecurity**
 * 🌍 Building modern, responsive & intuitive web experiences
