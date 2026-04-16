@@ -10,7 +10,7 @@
           <tr>
               <td width="55%" style="padding-right: 30px; vertical-align: top;">
                 <p>
-                  Passionate Frontend Developer and UI/UX Designer with a growing focus on Cybersecurity (SOC). <br/><br/>
+                  Passionate Frontend Developer and UI/UX Designer with a growing focus on Cybersecurity SOC, Red Team , Blue Team , Penetration Network etc... <br/><br/>
                   I love crafting responsive, user-friendly interfaces and continuously exploring intelligent, secure systems 
                   to build impactful and modern digital experiences.
                 </p>
