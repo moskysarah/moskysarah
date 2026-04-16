@@ -5,13 +5,21 @@
 </p>
 
 <br/>
+<table>
+  <tr>
+    <td width="55%" style="padding-right: 30px; vertical-align: top;">
+      <p>
+        Passionate Frontend Developer and UI/UX Designer with a growing focus on Cybersecurity (SOC). <br/><br/>
+        I love crafting responsive, user-friendly interfaces and continuously exploring intelligent, secure systems 
+        to build impactful and modern digital experiences.
+      </p>
+    </td>
 
-<img align="right" padding-right="50" padding-top="20" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-
-<p align="left" padding-left="50">
-  Passionate Frontend Developer and UI/UX Designer  and Cybersecurity (SOC). I enjoy building responsive, user-friendly interfaces
-  and continuously exploring intelligent and secure systems to create impactful digital   experiences.
-</p>
+    <td width="45%" align="right">
+      <img height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
