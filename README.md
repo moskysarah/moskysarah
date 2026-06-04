@@ -68,7 +68,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
