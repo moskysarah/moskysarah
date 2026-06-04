@@ -68,7 +68,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,virtualbox,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -91,11 +91,11 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <a href="https://www.instagram.com/sarahmogly/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>&nbsp;
+<a href="https://dashboard.render.com/" target="_blank">
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</a>
 <a href="https://x.com/sarahngoya_" target="_blank">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>
-  <a href="https://dashboard.render.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </a>
     
 </p>
