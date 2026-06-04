@@ -30,8 +30,8 @@
 <tr>
 <td width="220">
 
-<div style="border-radius: 15px; overflow: hidden; width: 300px;">
-  <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="300" />
+<div style="border-radius: 15px; overflow: hidden; width: 300px; ">
+  <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="400" height="300";/>
 </div>
 </td>
 
