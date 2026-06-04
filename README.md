@@ -68,10 +68,19 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,virtualbox,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
+
+<br/>
+
+<h2 align="center"> Cybersecurity Tools </h2>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" alt="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/microsoft/0078D6" width="48" alt="Windows" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" alt="VirtualBox" />
+</p>
 
 <h2 align="center">Connect With Me</h2>
 
