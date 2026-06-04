@@ -43,7 +43,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 
 - 🎓 Bac+2 in Full Stack Development
 - 📖 Trained in Web Development, AI, Networking, and Cybersecurity
-- 🚀 Building projects with HTML, CSS, JavaScript, TypeScript, PostgreSQL, and AdonisJS
+- 🚀 Building projects with HTML, CSS, JavaScript, TypeScript,pPython, PostgreSQL, Kotlin, React JS and AdonisJS
 - 🌱 Currently learning React Native and advanced Cybersecurity
 - 💼 Open to collaboration on web development projects
 
