@@ -78,7 +78,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <h2 align="center"> Cybersecurity Tools </h2>
 <p align="center">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" alt="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/microsoft/0078D6" width="48" alt="Windows" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="48" alt="Windows" /> 
   <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" alt="VirtualBox" />
 </p>
 
