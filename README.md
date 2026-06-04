@@ -128,7 +128,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer/>
 </p>
-<a href="https://dashboard.render.com" target="_blank">
+
+<a href="https://dashboard.render.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="48" alt="Render" />
 </a>
-
