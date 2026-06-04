@@ -68,7 +68,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,wordpress,mysql,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,react,git,github,postgres,wordpress,supabase,firebase,cpp,vercel&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -80,6 +80,11 @@ Full Stack Developer from the Democratic Republic of the Congo.
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="48" alt="Ubuntu" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="48" alt="Windows" /> 
   <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" alt="VirtualBox" />
+   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" alt="MongoDB" /> 
+   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="MySQL" />   
+   <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" alt="PowerShell" />
+   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" alt="AWS" />
+      
 </p>
 
 <h2 align="center">Connect With Me</h2>
