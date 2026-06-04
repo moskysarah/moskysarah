@@ -41,7 +41,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,mysql,supabase,firebase,&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,powershell,react,aws,git,github,postgres,mysql,supabase,firebase,c++,render,vercel&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=moskysarah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img width="99%" src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
