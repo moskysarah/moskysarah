@@ -30,8 +30,9 @@
 <tr>
 <td width="220">
 
-<img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="300" style="border-radius: 50%;" />
-
+<div style="border-radius: 15px; overflow: hidden; width: 300px;">
+  <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="300" />
+</div>
 </td>
 
 <td>
@@ -50,7 +51,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 </tr>
 </table>
 
-<h2>📚My Journey</h2>
+<h2>📚My Learning Journey</h2>
 
 * 💻 Frontend Developer | 🎨 UI/UX Designer
 * 🤖 Passionate about **ML, DL & Cybersecurity**
