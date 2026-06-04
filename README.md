@@ -94,6 +94,10 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <a href="https://x.com/sarahngoya_" target="_blank">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
 </a>
+  <a href="https://dashboard.render.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</a>
+    
 </p>
 
 <br/>
@@ -128,8 +132,5 @@ Full Stack Developer from the Democratic Republic of the Congo.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer/>
 </p>
-<a href="https://dashboard.render.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-</a>
 
 
