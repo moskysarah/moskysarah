@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sarah%20Ngoya%&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Developper+Frontend+%7C+Cyber+Security;Building+Security+SOC+%26+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Frontend+%7C+Cyber+Security;Building+Security+SOC+%26+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
 </p>
 
 <br/>
@@ -10,7 +10,7 @@
           <tr>
               <td width="55%" style="padding-right: 30px; vertical-align: top;">
                 <p>
-                  Passionate Frontend Developper and UI/UX Designer with a growing focus on Cybersecurity SOC, Red Team , Blue Team , Penetration Network etc... <br/><br/>
+                  Passionate Frontend Developer and UI/UX Designer with a growing focus on Cybersecurity SOC, Red Team , Blue Team , Penetration Network etc... <br/><br/>
                   I love crafting responsive, user-friendly interfaces and continuously exploring intelligent, secure systems 
                   to build impactful and modern digital experiences.
                 </p>
@@ -86,12 +86,13 @@
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight"
-      height="180"
+      width="99%"
       alt="GitHub Streak"
     />
   </a>
 </p>
 <p align="center">
+      
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
