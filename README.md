@@ -24,6 +24,31 @@
 
 
 <br/><br/>
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table>
+<tr>
+<td width="220">
+
+<img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="200"/>
+
+</td>
+
+<td>
+
+### Sarah Ngoya
+
+Full Stack Developer from the Democratic Republic of the Congo.
+
+- 🎓 Bac+2 in Full Stack Development
+- 📖 Trained in Web Development, AI, Networking, and Cybersecurity
+- 🚀 Building projects with HTML, CSS, JavaScript, TypeScript, PostgreSQL, and AdonisJS
+- 🌱 Currently learning React Native and advanced Cybersecurity
+- 💼 Open to collaboration on web development projects
+
+</td>
+</tr>
+</table>
 
 <h2>About Me</h2>
 
