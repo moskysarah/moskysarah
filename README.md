@@ -30,13 +30,13 @@
 <tr>
 <td width="220">
 
-<img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="200"/>
+<img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="300" style="border-radius: 50%;" />
 
 </td>
 
 <td>
 
-### Sarah Ngoya
+
 
 Full Stack Developer from the Democratic Republic of the Congo.
 
@@ -50,7 +50,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 </tr>
 </table>
 
-<h2>📚About Me</h2>
+<h2>📚My Journey</h2>
 
 * 💻 Frontend Developer | 🎨 UI/UX Designer
 * 🤖 Passionate about **ML, DL & Cybersecurity**
