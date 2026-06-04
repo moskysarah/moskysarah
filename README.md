@@ -82,10 +82,7 @@
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moskysarah&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
 
-<p align="center">     
-   <img src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="center">
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
