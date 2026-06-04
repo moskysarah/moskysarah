@@ -10,7 +10,7 @@
           <tr>
               <td width="55%" style="padding-right: 30px; vertical-align: top;">
                 <p>
-                  Passionate Frontend Developer and UI/UX Designer with a growing focus on Cybersecurity SOC, Red Team , Blue Team , Penetration Network etc... <br/><br/>
+                  Passionate Frontend Developper and UI/UX Designer with a growing focus on Cybersecurity SOC, Red Team , Blue Team , Penetration Network etc... <br/><br/>
                   I love crafting responsive, user-friendly interfaces and continuously exploring intelligent, secure systems 
                   to build impactful and modern digital experiences.
                 </p>
@@ -82,8 +82,15 @@
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moskysarah&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 <p align="center">
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
