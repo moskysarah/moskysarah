@@ -24,7 +24,7 @@
 
 
 <br/><br/>
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>👩‍💻About Me</h2>
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 </tr>
 </table>
 
-<h2>About Me</h2>
+<h2>📚About Me</h2>
 
 * 💻 Frontend Developer | 🎨 UI/UX Designer
 * 🤖 Passionate about **ML, DL & Cybersecurity**
