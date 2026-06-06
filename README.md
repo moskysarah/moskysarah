@@ -47,9 +47,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 -🎓 Bac+2 in cybersecurity — Kadea Academy (2025) 
 
 -🚩 Training CS50 — Havard Univeristy site (2026)  
--📖 Trained in Web Development, AI, Networking, and Cybersecurity  
 -🚀 Tech Stack: HTML, CSS, JavaScript, TypeScript, Python, PostgreSQL, Kotlin, React JS, AdonisJS  
--🌱 Currently learning React Native & Advanced Cybersecurity  
 -💼 Open to collaboration on web development projects  
 </td>
 </tr>
