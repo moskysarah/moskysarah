@@ -45,6 +45,7 @@ Full Stack Developer from the Democratic Republic of the Congo.
 -🎓 Web Development Training — Achievers Christian USA Center (2021)  
 -🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
 -🎓 Bac+2 in cybersecurity — Kadea Academy (2025) 
+
 -🚩 Training CS50 — Havard Univeristy site (2026)  
 -💼 Open to collaboration on web development projects  
 </td>
