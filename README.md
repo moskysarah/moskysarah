@@ -37,10 +37,6 @@
 
 <td>
 
-
-
-Full Stack Developer from the Democratic Republic of the Congo.
-
 - 🎓 Bachelor's Degree (Bac+3) in Computer Management — HEC (2020)  
 - 🎓 Web Development Training — Achievers Christian USA Center (2021)  
 - 🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
