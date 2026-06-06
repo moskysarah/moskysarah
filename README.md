@@ -41,13 +41,13 @@
 
 Full Stack Developer from the Democratic Republic of the Congo.
 
--🎓 Bac+3 in Computer Management — HEC (2020)  
--🎓 Web Development Training — Achievers Christian USA Center (2021)  
--🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
--🎓 Bac+2 in cybersecurity — Kadea Academy (2025) 
-
--🚩 Training CS50 — Havard Univeristy site (2026)  
--💼 Open to collaboration on web development projects  
+- 🎓 Bachelor's Degree (Bac+3) in Computer Management — HEC (2020)  
+- 🎓 Web Development Training — Achievers Christian USA Center (2021)  
+- 🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
+- 🎓 Bac+2 in Cybersecurity — Kadea Academy (2025)  
+- 🚩 CS50 Training — Harvard University (2026)  
+- 🌐 Passionate about Web Development, Cybersecurity, and Artificial Intelligence  
+- 💼 Open to collaboration on web development and innovative technology projects 
 </td>
 </tr>
 </table>
