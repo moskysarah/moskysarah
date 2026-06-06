@@ -30,8 +30,8 @@
 <tr>
 <td width="220">
 
-<div style="border-radius: 50px; overflow: hidden; width: 400px; ">
-  <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="400" height="350";/>
+<div style="border-radius: 50px; overflow: hidden; width: 300px; ">
+  <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="400" height="400";/>
 </div>
 </td>
 
@@ -45,9 +45,6 @@ Full Stack Developer from the Democratic Republic of the Congo.
 -🎓 Web Development Training — Achievers Christian USA Center (2021)  
 -🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
 -🎓 Bac+2 in cybersecurity — Kadea Academy (2025) 
-
-
-
 
 -🚩 Training CS50 — Havard Univeristy site (2026)  
 -📖 Trained in Web Development, AI, Networking, and Cybersecurity  
