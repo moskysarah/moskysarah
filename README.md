@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sarah%20Ngoya%&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2Frondend+Engineer+%7C+Cybersecurity+Specialist;Building+LLM+Systems+%26+RAG+Pipelines;MSc+AI+%40+LUMS+%7C+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2Frontend+Engineer+%7C+Cybersecurity+Specialist;Building+LLM+Systems+%26+RAG+Pipelines;MSc+AI+%40+LUMS+%7C+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
