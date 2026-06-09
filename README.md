@@ -101,9 +101,6 @@
 <a href="https://discord.com/mosky_22_57408">
 <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
 </a> 
-<a href="https://www.instagram.com/sarahmogly/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>&nbsp;
 <a href="https://dashboard.render.com/" target="_blank">
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </a>
@@ -112,11 +109,7 @@
 </a>  
  <a href="https://app.netlify.com/teams/moskysarah/projects" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-</a>     
-<a href="https://x.com/sarahngoya_" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>
-    
+</a>         
 </p>
 
 <br/>
