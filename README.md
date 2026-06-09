@@ -107,6 +107,12 @@
 <a href="https://dashboard.render.com/" target="_blank">
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </a>
+  <a href="https://www.unicorn.studio/edit/oIKB8Yg6Cdt7o5KHKZ0J" target="_blank">
+  <img src="https://img.shields.io/badge/Unicorn%20Studio-8B5CF6?style=for-the-badge&logoColor=white" alt="Unicorn Studio" />
+</a>  
+ <a href="https://app.netlify.com/teams/moskysarah/projects" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</a>     
 <a href="https://x.com/sarahngoya_" target="_blank">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
 </a>
