@@ -67,7 +67,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,react,git,github,postgres,wordpress,supabase,firebase,cpp&figma=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,kotlin,bash,react,git,github,postgres,wordpress,supabase,firebase,php,cpp&figma=12" alt="Tech Stack"/>
 </p>
 
 <br/>
