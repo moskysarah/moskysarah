@@ -114,8 +114,9 @@
 
  <h2 align="center">Workflow Snack</h2>
 <br/>
-<img src="https://github.com/biilalc/biilalc/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
+<h2 align="center">Workflow Snack</h2>
+<br/>
+<img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 <h2 align="center">GitHub Contributions</h2>
 
 <br/>
