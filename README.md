@@ -112,9 +112,6 @@
 </a>         
 </p>
 
- <h2 align="center">Workflow Snack</h2>
-<br/>
-<h2 align="center">Workflow Snack</h2>
 <br/>
 <h2 align="center">Workflow Snack</h2>
 
@@ -122,7 +119,6 @@
 
 <img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 <h2 align="center">GitHub Contributions</h2>
-
 <br/>
 
 <p align="center">
