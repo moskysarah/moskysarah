@@ -112,9 +112,9 @@
 </a>         
 </p>
 
+ <h2 align="center">Worflow Snack</h2>
 <br/>
 <img src="https://github.com/biilalc/biilalc/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-<br/>
 
 <h2 align="center">GitHub Contributions</h2>
 
