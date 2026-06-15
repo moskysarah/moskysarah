@@ -113,7 +113,6 @@
 </p>
 
 <br/>
-
 <img src="https://github.com/biilalc/biilalc/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 <br/>
 
