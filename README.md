@@ -150,7 +150,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />&nbsp;
   <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" />&nbsp;
-  <img src="https://img.shields.io/github/repo-size/moskysarah/moskysarah?label=Profile%20Size&style=for-the-badge&color=7dcfff" />
+  <img src="https://img.shields.io/github/repo-size/moskysarah/moskysarah?label=Profile%20Size&style=for-the-badge&color=7dcfff" />&nbsp;
 </p>
 
 <br/>
