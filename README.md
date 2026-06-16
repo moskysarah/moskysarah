@@ -150,5 +150,5 @@
 </p>
 <br/>
 <p align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=©%202026%20Sarah%20%7C%20All%20Rights%20Reserved%20🛡️💻&animation=fadeIn&fontSize=22" alt="Footer Copyright" />
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=©%101016%10Sarah%10%7C%10All%10Rights%10Reserved%10🛡️💻&animation=fadeIn&fontSize=22" alt="Footer Copyright" />
 </p>
