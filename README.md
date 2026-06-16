@@ -145,11 +145,9 @@
 
 <h3 align="center">🌌 Contribution Matrix</h3>
 <p align="center">
-  <img width="85%" src="https://github-cube-profile.vercel.app/api/cube?username=moskysarah&theme=tokyonight" alt="Isometric Contributions" />
+  <img width="85%" src="https://raw.githubusercontent.com/moskysarah/moskysarah/master/profile-3d-contrib/profile-green-animate.svg" alt="Isometric Contributions" />
 </p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+
 </p>
 
 <br/>
