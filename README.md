@@ -125,10 +125,6 @@
 <h2 align="center">⚡ Cyber & Tech Metrics</h2>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/moskysarah?tab=followers">
-    <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" />
-  </a>&nbsp;
   <a href="https://github.com/moskysarah?tab=stars">
     <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
   </a>&nbsp;
