@@ -122,7 +122,7 @@
 <h2 align="center">GitHub Contributions</h2>
 <br/>
 
-<p align="right">
+<p align="left">
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moskysarah&theme=tokyonight" alt="Stats"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit 
