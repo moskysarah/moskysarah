@@ -146,13 +146,16 @@
 
 <h3 align="center">📈 Real-Time Activity Monitoring</h3>
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-gifs/main/gifs/naruto.gif" width="200" alt="Naruto Rasengan"/>
+  <a href="https://github.com/moskysarah?tab=followers">
+    <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" />
+  </a>&nbsp;
+  <a href="https://github.com/moskysarah?tab=stars">
+    <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
+  </a>&nbsp;
+  <a href="https://github.com/moskysarah?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-⚡-7dcfff?style=for-the-badge" alt="Projects" />
+  </a>
 </p>
-
 <br/>
 <p align="center">
   <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=©%202026%20Sarah%20%7C%20All%20Rights%20Reserved%20🛡️💻&animation=fadeIn&fontSize=22" alt="Footer Copyright" />
