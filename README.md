@@ -150,7 +150,7 @@
 <br/>
  
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=120&section=footer" alt="Footer" />
 </p>
 
 
