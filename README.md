@@ -117,7 +117,8 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation" background="black"/>
+
 <h2 align="center">GitHub Contributions</h2>
 <br/>
 
