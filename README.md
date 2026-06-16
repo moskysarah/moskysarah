@@ -144,17 +144,6 @@
 
 <br/>
 
-<h2 align="center">⚡ Cyber & Tech Metrics</h2>
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />&nbsp;
-  <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" />&nbsp;
-  <img src="https://img.shields.io/github/repo-size/moskysarah/moskysarah?label=Profile%20Size&style=for-the-badge&color=7dcfff" />
-</p>
-
-<br/>
-
 <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Langages" />
 </p>
