@@ -143,11 +143,10 @@
 
 <br/>
 
-<h3 align="center">🌌 Contribution Matrix</h3>
+<h3 align="center">📈 Real-Time Activity Monitoring</h3>
 <p align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/moskysarah/moskysarah/main/profile-3d-contrib/profile-green-animate.svg" alt="Isometric Contributions" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
-
 </p>
 
 <br/>
