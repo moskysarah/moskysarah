@@ -145,7 +145,7 @@
 
 <h3 align="center">🌌 Contribution Matrix</h3>
 <p align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/moskysarah/moskysarah/master/profile-3d-contrib/profile-green-animate.svg" alt="Isometric Contributions" />
+  <img width="85%" src="https://raw.githubusercontent.com/moskysarah/moskysarah/main/profile-3d-contrib/profile-green-animate.svg" alt="Isometric Contributions" />
 </p>
 
 </p>
