@@ -150,7 +150,6 @@
 <br/>
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=120&section=footer" alt="Footer" />
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=Sarah&animation=fadeIn&fontSize=30" alt="Footer" />
 </p>
-
 
