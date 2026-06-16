@@ -127,6 +127,32 @@
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit 
 <p align="center">
+
+
+
+
+
+<h2 align="center">📊 GitHub Contributions & Analytics</h2>
+<br/>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Statistiques Globales Sarah" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophies.vercel.app/?username=moskysarah&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="100%" src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
       
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
