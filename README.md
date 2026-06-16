@@ -126,7 +126,10 @@
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moskysarah&theme=tokyonight" alt="Stats"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moskysarah&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moskysarah&theme=tokyonight" alt="Stats"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit Language"/>
+<img width="24%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=tokyonight&locale=fr" alt="Général Stats"/>
 </p>
 
 <p align="center">
