@@ -120,29 +120,36 @@
 <img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation" background="black"/>
 
 
-<h2 align="center">📊 GitHub Contributions & Analytics</h2>
+<h2 align="center">⚡ Cyber & Tech Metrics</h2>
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Statistiques Globales Sarah" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />&nbsp;
+  <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" />&nbsp;
+  <img src="https://img.shields.io/github/repo-size/moskysarah/moskysarah?label=Profile%20Size&style=for-the-badge&color=7dcfff" />
 </p>
+
+<br/>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophies.vercel.app/?username=moskysarah&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Langages" />
 </p>
+
+<br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="100%" src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Timeline" alt="Activity Graph"/>
 </p>
 
+<br/>
+
+<h3 align="center">🌌 Contribution Matrix</h3>
+<p align="center">
+  <img width="85%" src="https://github-cube-profile.vercel.app/api/cube?username=moskysarah&theme=tokyonight" alt="Isometric Contributions" />
+</p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
-      
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <br/>
