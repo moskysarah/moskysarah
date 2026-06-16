@@ -113,12 +113,11 @@
 </p>
 
 <br/>
-<h2 align="center">Workflow Snack</h2>
-
+<h2 align="center">Workflow Snake</h2>
 <br/>
-
-<img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg" alt="Snake Animation" background="black"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moskysarah/moskysarah/output/github-contribution-grid-snake.svg?v=1.0.0" alt="Snake Animation"/>
+</p>
 
 <h2 align="center">⚡ Cyber & Tech Metrics</h2>
 <br/>
