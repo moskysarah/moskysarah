@@ -36,15 +36,11 @@
 <div style="border-radius: 50px; overflow: hidden; width: 300px; ">
   <img src="Gemini_Generated_Image_a73gcwa73gcwa73g.png" width="400" height="400";/>
 </div>
-
-
+</td>
+<td>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmswN3Jnd3Jid3R5bms1bWpxN3R5am8xbXpnd3R5am8xbXpnd3R5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuS9H6X79wSre/giphy.gif" width="200" alt="Naruto Rasengan"/>
 </p>
-</td>
-
-<td>
-
 - 🎓 Bachelor's Degree (Bac+3) in Computer Management — HEC (2020)  
 - 🎓 Web Development Training — Achievers Christian USA Center (2021)  
 - 🎓 Bac+2 in Full Stack Development — Kadea Academy (2023)  
