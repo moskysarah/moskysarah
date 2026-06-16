@@ -131,9 +131,9 @@
   <a href="https://github.com/moskysarah?tab=stars">
     <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
   </a>&nbsp;
- <a href="https://github.com/moskysarah?tab=repositories">
-  <img src="https://img.shields.io/github/repositories/moskysarah?label=Repositories&style=for-the-badge&color=7dcfff&logo=github" alt="Repositories" />
-</a>
+  <a href="https://github.com/moskysarah?tab=repositories">
+    <img src="https://badgen.net/badge/Projects/%E2%9A%A1/7dcfff?list=1" alt="Projects" style="height: 28px;" />
+  </a>
 </p>
 
 <br/>
