@@ -152,8 +152,8 @@
   <a href="https://github.com/moskysarah?tab=stars">
     <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
   </a>&nbsp;
-  <a href="https://github.com/moskysarah?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-⚡-7dcfff?style=for-the-badge" alt="Projects" />
+  <a href="https://github.com/moskysarah?tab=repositories" style="text-decoration: none;">
+    <span style="background-color: #7dcfff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; padding: 5px 10px; border-radius: 3px; display: inline-block; vertical-align: middle; height: 18px; line-height: 18px;">PROJECTS ⚡</span>
   </a>
 </p>
 <br/>
