@@ -124,13 +124,13 @@
 
 <h2 align="center">⚡ Cyber & Tech Metrics</h2>
 <br/>
-
-  <a href="https://github.com/moskysarah?tab=stars">
-    <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
-  </a>&nbsp;
-  <a href="https://github.com/moskysarah?tab=repositories">
-    <img src="https://badgen.net/badge/Projects/%E2%9A%A1/7dcfff?list=1" alt="Projects" style="height: 28px;" />
-  </a>
+<p align="center">
+        <a href="https://github.com/moskysarah?tab=stars">
+          <img src="https://img.shields.io/github/stars/moskysarah?label=Stars%20Earned&style=for-the-badge&color=bb9af7&logo=github" alt="Stars" />
+        </a>&nbsp;
+        <a href="https://github.com/moskysarah?tab=repositories">
+          <img src="https://badgen.net/badge/Projects/%E2%9A%A1/7dcfff?list=1" alt="Projects" style="height: 28px;" />
+        </a>
 </p>
 
 <br/>
