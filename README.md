@@ -125,9 +125,6 @@
 <p align="center">
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moskysarah&theme=tokyonight" alt="Stats"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moskysarah&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moskysarah&theme=tokyonight" alt="Top Languages"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moskysarah&theme=tokyonight" alt="Most Commit 
 <p align="center">
       
