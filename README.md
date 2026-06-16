@@ -144,12 +144,6 @@
 
 <br/>
 
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Langages" />
-</p>
-
-<br/>
-
 <h3 align="center">📈 Real-Time Activity Monitoring</h3>
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
