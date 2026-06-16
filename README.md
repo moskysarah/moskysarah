@@ -142,6 +142,8 @@
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
+ <img                         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmswN3Jnd3Jid3R5bms1bWpxN3R5am8xbXpnd3R5am8xbXpnd3R5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuS9H6X79wSre/giphy.gif" width="200" alt="Naruto Rasengan"/>
+</p>
 </p>
 
 <br/>
