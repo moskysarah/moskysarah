@@ -57,7 +57,7 @@
 * 🌍 Building modern, responsive & intuitive web experiences
 * 💬 Ask me about **Frontend, UI/UX & Tech learning journey**
 * 📫 Contact: **[sarahmosky@gmail.com](mailto:sarahmosky@gmail.com)**
-* 💼 Mon portfolio **[Mon Portfolio](https://portfolio-update-jade-two.vercel.app/)**
+* 💼 Portfolio **[Mon Portfolio](https://portfolio-update-jade-two.vercel.app/)**
 * ☕ Coffee lover | 🎾 Tennis fan
 * 🎌 Otaku & in love with Japanese culture
 * ⚡ Favorite manga: **Naruto, Baki, Attack on Titan**
