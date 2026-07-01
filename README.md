@@ -137,8 +137,7 @@
 
 <p align="center">
   <img
-    width="90%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&card_width=700"
     alt="Top Languages"
   />
 </p>
