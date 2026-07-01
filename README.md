@@ -136,7 +136,7 @@
 <br/>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <br/>
