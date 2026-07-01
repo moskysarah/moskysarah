@@ -135,7 +135,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight"  style="height: 28px;" />
 </p>
 
 <br/>
