@@ -27,7 +27,7 @@
 
 
 <br/><br/>
-<h2>👩‍💻About Me</h2>
+<h2>📚My Learning Journey </h2>
 
 <table>
 <tr>
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-<h2>📚My Learning Journey</h2>
+<h2>👩‍💻About Me </h2>
 
 * 💻 Frontend Developer | 🎨 UI/UX Designer
 * 🤖 Passionate about **ML, DL & Cybersecurity**
