@@ -83,7 +83,9 @@
 - 🔐 SOC Operations, Red Team & Blue Team
 - 🧪 Penetration Testing & Security Labs
 - 🖥️ Windows Server & Linux Administration
-
+-📫 Contact: **[sarahmosky@gmail.com](mailto:sarahmosky@gmail.com)**
+- 📧 Proton Mail **[ sarahmosky@proton.me](mailto:sarahmosky@proton.me)**
+- 💼 Check out **[My Portfolio](https://portfolio-update-jade-two.vercel.app/)**
 </td>
 
 <td width="45%" align="center">
