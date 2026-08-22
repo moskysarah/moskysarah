@@ -2,13 +2,7 @@
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header"
-    alt="Header gradient"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -565,8 +559,7 @@ Favorite manga:
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Sarah%20Ngoya&fontSize=24&fontColor=ffffff&animation=fadeIn"
-    alt="Sarah Ngoya Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer"
+    alt="Footer gradient"
   />
 </p>
-
