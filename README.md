@@ -197,40 +197,46 @@
 
 <td align="center" width="33.33%" valign="top">
 
-### 🔐 Security
+<h3>🔐 Security</h3>
 
-SOC  
-Red Team  
-Blue Team  
-Penetration Testing  
-Network Security  
-SIEM  
-
-</td>
-
-<td align="center" width="33.33%" valign="top">
-
-### 🌐 Infrastructure
-
-Windows Server  
-Active Directory  
-Linux  
-Cisco Networking  
-VLAN / DHCP  
-Virtualization  
+<p>
+🔵 SOC<br>
+🔴 Red Team<br>
+🔵 Blue Team<br>
+🧪 Penetration Testing<br>
+🌐 Network Security<br>
+📊 SIEM
+</p>
 
 </td>
 
 <td align="center" width="33.33%" valign="top">
 
-### 🧰 Security Tools
+<h3>🌐 Infrastructure</h3>
 
-Wazuh  
-Wireshark  
-FortiGate  
-GNS3  
-VMware  
-VirtualBox  
+<p>
+🪟 Windows Server<br>
+📁 Active Directory<br>
+🐧 Linux<br>
+🌐 Cisco Networking<br>
+🔀 VLAN / DHCP<br>
+🖥️ Virtualization
+</p>
+
+</td>
+
+<td align="center" width="33.33%" valign="top">
+
+<h3>🧰 Security Tools</h3>
+
+<p>
+🛡️ Wazuh<br>
+🔎 Wireshark<br>
+🔥 FortiGate<br>
+🕸️ GNS3<br>
+☁️ VMware<br>
+📦 VirtualBox
+</p>
 
 </td>
 
