@@ -1,6 +1,19 @@
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/wordmark?username=moskysarah&theme=aurora&style=terminal&mode=light"
+    />
+    <img
+      src="https://www.gitskins.com/api/section/wordmark?username=moskysarah&theme=aurora&style=terminal"
+      alt="moskysarah wordmark"
+      width="100%"
+    />
+  </picture>
+</p>
 
 
 
@@ -26,20 +39,6 @@
     <img
       src="https://www.gitskins.com/api/section/hero?username=moskysarah&theme=aurora&style=terminal"
       alt="moskysarah hero section"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/wordmark?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/wordmark?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah wordmark"
       width="100%"
     />
   </picture>
