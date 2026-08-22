@@ -558,7 +558,7 @@ Favorite manga:
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer"
-    alt="Footer gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=Sarah%20Ngoya%20%7C%20Cybersecurity%20%26%20Web%20Development&animation=fadeIn&fontSize=22&fontColor=ffffff"
+    alt="Sarah Ngoya Footer"
   />
 </p>
