@@ -123,7 +123,7 @@
 <td width="65%" valign="top">
 
 - 🎓 **Bachelor's Degree — Computer Management** — HEC, 2020
-- 🎓 **Web Development Training** — Achievers Christian USA Center, 2021
+- 🎓 **Web Development Training** — Achievers Christian Center, 2021
 - 🎓 **Bac+2 Full Stack Development** — Kadea Academy, 2024
 - 🎓 **Bac+2 Cybersecurity** — Kadea Academy, 2026
 - 🎓 **Generative AI for Business** — 2025
@@ -138,23 +138,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       GITSKINS PORTRAIT                    -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/portrait?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/portrait?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah portrait"
-      width="100%"
-    />
-  </picture>
-</p>
 
 <!-- ========================================================= -->
 <!--                    LANGUAGES & TOOLS                      -->
