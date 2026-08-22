@@ -195,7 +195,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="80%">
 
 ### 🔐 Security
 
@@ -208,7 +208,7 @@ SIEM
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="80%">
 
 ### 🌐 Infrastructure
 
@@ -221,7 +221,7 @@ Virtualization
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="80%">
 
 ### 🧰 Security Tools
 
