@@ -200,9 +200,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="48" alt="Ubuntu" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" alt="Windows" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" alt="VirtualBox" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="48" alt="VMware" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" alt="Wireshark" />
+<img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" alt="VirtualBox" />
+<img src="https://cdn.simpleicons.org/vmware/607078" width="48" alt="VMware" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" alt="Wireshark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" alt="PowerShell" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
 <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="48" alt="Fortinet" />
