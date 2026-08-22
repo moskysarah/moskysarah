@@ -125,6 +125,8 @@
 - 🎓 **Web Development Training** — Achievers Christian Center, 2021
 - 🎓 **Bac+2 Full Stack Development** — Kadea Academy, 2024
 - 🎓 **Bac+2 Cybersecurity** — Kadea Academy, 2026
+- 🎓 CompTIA CySA+ — Coursera, 2026
+- 🎓 CCNA — Coursera, 2026
 - 🎓 **Generative AI for Business** — 2025
 - 🚩 **CS50 Training** — Harvard University, 2026
 - 🌐 Web Development, Cybersecurity & Artificial Intelligence
