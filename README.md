@@ -24,7 +24,7 @@
   </picture>
 </p>   
  <!-- ========================================================= --> <!--                       ABOUT ME                            --> <!-- ========================================================= --> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=👩‍💻%20About%20Me&fontSize=25&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=👩‍💻%20About%20Me&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -63,40 +63,40 @@ alt="Developer animation"
 
 </td>
 </tr>
-</table> <!-- ========================================================= --> <!--                    DEVELOPER CARD                         --> <!-- ========================================================= -->   
+</table> <!-- ========================================================= --> <!--                PREMIUM DEVELOPER CARD                     --> <!-- ========================================================= -->   
  <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: 2px solid #7F5AF0; border-radius: 15px; overflow: hidden; background: #16161a;">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,19,20,24&height=100&section=header&text=SARAH%20NGOYA%20|%20DEV%20IDENTITY&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0d1117; border-radius: 0 0 20px 20px; border: 2px solid #7F5AF0;">
     <tr>
-      <td align="center" bgcolor="#16161a" style="padding: 20px;">
-        <img src="https://portfolio-update-jade-two.vercel.app/remove%20back%20black.png" width="180" style="border-radius: 50%; border: 4px solid #7F5AF0;" alt="Sarah Ngoya" />
+      <td align="center" width="30%" style="padding: 30px;">
+        <img src="https://portfolio-update-jade-two.vercel.app/remove%20back%20black.png" width="220" style="filter: drop-shadow(0 0 15px #7F5AF0 );" alt="Sarah Profile" />
+      </td>
+      <td width="40%" style="padding: 20px; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+          
+
+        <font color="#7F5AF0" size="6"><b>Sarah Ngoya</b></font>  
+
+        <font color="#94a1b2" size="4">Full Stack Developer & Cyber Security</font>
           
   
 
-        <font color="#ffffff" size="5"><b>Sarah Ngoya</b></font>  
-
-        <font color="#94a1b2" size="3">Full Stack Developer & Cyber Security</font>
-      </td>
-      <td bgcolor="#16161a" style="padding: 20px; border-left: 1px solid #242629;">
-        <font color="#7F5AF0" size="4"><b>Developer Identity Card</b></font>  
-  
-
-        <font color="#ffffff"><b>Role:</b> Frontend Engineer</font>  
-
-        <font color="#ffffff"><b>Specialty:</b> UI/UX & Security</font>  
-
-        <font color="#ffffff"><b>Experience:</b> 4+ Years in Tech</font>  
-
-        <font color="#ffffff"><b>Passion:</b> AI & Cybersecurity</font>  
-  
-
-        <img src="https://img.shields.io/badge/Verified-Developer-blue?style=flat-square&logo=github" alt="Verified" />
-        <img src="https://img.shields.io/badge/Top-Skills-purple?style=flat-square" alt="Top Skills" />
-      </td>
-      <td align="center" bgcolor="#16161a" style="padding: 20px;">
-        <img src="https://portfolio-update-jade-two.vercel.app/Gemini_Generated_Image_as4evaas4evaas4e.png" width="150" style="border-radius: 10px; border: 2px solid #2eb872;" alt="Sarah Graduation" />
+        <table border="0" cellpadding="5">
+          <tr><td><font color="#7F5AF0"><b>▹</b></font></td><td><font color="#ffffff"><b>Role:</b> Frontend Engineer</font></td></tr>
+          <tr><td><font color="#7F5AF0"><b>▹</b></font></td><td><font color="#ffffff"><b>Specialty:</b> UI/UX & Security</font></td></tr>
+          <tr><td><font color="#7F5AF0"><b>▹</b></font></td><td><font color="#ffffff"><b>Experience:</b> 4+ Years in Tech</font></td></tr>
+          <tr><td><font color="#7F5AF0"><b>▹</b></font></td><td><font color="#ffffff"><b>Passion:</b> AI & Cybersecurity</font></td></tr>
+        </table>
           
 
-        <font color="#2eb872" size="2">Graduated 2024</font>
+        <img src="https://img.shields.io/badge/Verified-Developer-blue?style=for-the-badge&logo=github&color=7F5AF0" alt="Verified" />
+      </td>
+      <td align="center" width="30%" style="padding: 30px;">
+        <img src="https://portfolio-update-jade-two.vercel.app/Gemini_Generated_Image_as4evaas4evaas4e.png" width="180" style="border-radius: 20px; border: 3px solid #2eb872; box-shadow: 0 0 20px rgba(46, 184, 114, 0.3 );" alt="Sarah Achievement" />
+          
+  
+
+        <font color="#2eb872" size="3"><b>Academic Excellence</b></font>  
+
+        <font color="#8b949e" size="2">Class of 2024</font>
       </td>
     </tr>
   </table>
@@ -106,7 +106,7 @@ alt="Developer animation"
 ---
 
 <!-- ========================================================= --> <!--                    LEARNING JOURNEY                       --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=📚%20My%20Learning%20Journey&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=📚%20My%20Learning%20Journey&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <table width="100%">
 <tr> <td width="35%" align="center">
 
@@ -141,7 +141,7 @@ alt="Sarah learning journey"
 ---
 
 <!-- ========================================================= --> <!--                    LANGUAGES & TOOLS                      --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=⚙️%20Languages%20%26%20Tools&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=⚙️%20Languages%20%26%20Tools&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,cpp,kotlin,git,github,postgres,mysql,mongodb,wordpress,supabase,firebase,figma"
@@ -165,7 +165,7 @@ alt="Sarah learning journey"
 ---
 
 <!-- ========================================================= --> <!--                    CYBERSECURITY                          --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🛡️%20Cybersecurity%20%26%20Infrastructure&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🛡️%20Cybersecurity%20%26%20Infrastructure&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="48" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" />
@@ -203,7 +203,7 @@ Wazuh · Wireshark · FortiGateGNS3 · VMware · VirtualBox
 ---
 
 <!-- ========================================================= --> <!--                         PROJECTS                          --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🚀%20Projects%20%26%20Work&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🚀%20Projects%20%26%20Work&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <picture>
     <source
@@ -259,7 +259,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                        GITHUB STATS                       --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=📊%20GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=📊%20GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <picture>
     <source
@@ -282,7 +282,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                       ACTIVITY                            --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=📈%20Real-Time%20Activity&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=📈%20Real-Time%20Activity&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <img
     width="95%"
@@ -294,7 +294,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                        HEATMAP                            --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🔥%20Contribution%20Heatmap&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🔥%20Contribution%20Heatmap&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <picture>
     <source
@@ -308,7 +308,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
     />
   </picture>
 </p> <!-- ========================================================= --> <!--                     WORKFLOW SNAKE                        --> <!-- ========================================================= --> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🐍%20Workflow%20Snake&fontSize=25&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🐍%20Workflow%20Snake&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <picture>
     <source
@@ -326,7 +326,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                    CYBER & TECH METRICS                   --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=⚡%20Cyber%20%26%20Tech%20Metrics&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=⚡%20Cyber%20%26%20Tech%20Metrics&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
 <a href="https://github.com/moskysarah?tab=stars">
   <img
@@ -345,7 +345,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                       HIGHLIGHTS                          --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=✨%20Highlights&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=✨%20Highlights&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
   <picture>
     <source
@@ -363,7 +363,7 @@ Environnements de cybersécurité virtualisés pour la pratique :
 ---
 
 <!-- ========================================================= --> <!--                       PERSONAL                           --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🌍%20Beyond%20Code&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🌍%20Beyond%20Code&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
 ☕ Coffee lover  
 &nbsp; • &nbsp;
@@ -384,7 +384,7 @@ Favorite manga:
 ---
 
 <!-- ========================================================= --> <!--                       CONNECT                             --> <!-- ========================================================= --> <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🌐%20Connect%20With%20Me&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20,24&height=60&text=🌐%20Connect%20With%20Me&fontSize=25&fontColor=ffffff" width="100%" />
 </p> <p align="center">
 <a href="https://www.linkedin.com/in/sarah-ngoya-80b0322b1/">
   <img
@@ -436,7 +436,7 @@ Favorite manga:
 <!-- ========================================================= --> <!--                         FOOTER                            --> <!-- ========================================================= --> <p align="center">
 <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Sarah%20Ngoya&fontSize=24&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&text=Sarah%20Ngoya&fontSize=24&fontColor=ffffff&animation=fadeIn"
     alt="Sarah Ngoya Footer"
   />
 </p>
