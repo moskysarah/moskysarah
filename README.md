@@ -192,10 +192,10 @@
 </p>
 
 </p>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="80%">
+
+<td align="center" width="33.33%" valign="top">
 
 ### 🔐 Security
 
@@ -208,7 +208,7 @@ SIEM
 
 </td>
 
-<td align="center" width="80%">
+<td align="center" width="33.33%" valign="top">
 
 ### 🌐 Infrastructure
 
@@ -221,7 +221,7 @@ Virtualization
 
 </td>
 
-<td align="center" width="80%">
+<td align="center" width="33.33%" valign="top">
 
 ### 🧰 Security Tools
 
@@ -233,8 +233,10 @@ VMware
 VirtualBox  
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
