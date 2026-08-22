@@ -3,7 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sarah%20Ngoya&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header"
+    alt="Header gradient"
+  />
 </p>
 
 <p align="center">
