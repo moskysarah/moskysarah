@@ -361,7 +361,7 @@ Virtualized cybersecurity environments for practicing:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider](https://github-profile-trophy.vercel.app/?username=moskysarah&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
 <!-- ========================================================= -->
@@ -373,36 +373,19 @@ Virtualized cybersecurity environments for practicing:
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
+   src="https://github-readme-activity-graph.vercel.app/graph?username=moskysarah&theme=tokyo-night&hide_border=true&area=true"  />
+
 </p>
 
 <!-- ========================================================= -->
 <!--                        HEATMAP                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔥 Contribution Heatmap</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/heatmap?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/heatmap?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah contribution heatmap"
-      width="100%"
-    />
-  </picture>
-</p>
-
 <!-- ========================================================= -->
 <!--                     WORKFLOW SNAKE                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 Workflow Snake</h2>
+<h2 align="center">🔥 Contribution Heatmap</h2>
 
 <p align="center">
   <picture>
