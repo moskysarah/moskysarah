@@ -480,10 +480,7 @@ Virtualized cybersecurity environments for practicing:
 </p>
 
 <p align="center">
-
-Favorite manga:
-<strong>Naruto · Baki · Attack on Titan</strong>
-
+</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=9C6CFF&center=true&vCenter=true&width=600&lines=Favorite+manga%3A+Naruto+%F0%9F%8D%A5;Favorite+manga%3A+Baki+%F0%9F%A5%8A;Favorite+manga%3A+Attack+on+Titan+%E2%9A%94%EF%B8%8F" alt="Favorite manga animated" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" /> </p> <!-- ========================================================= --> <!--
 </p>
 
 <p align="center">
