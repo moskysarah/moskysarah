@@ -1,4 +1,15 @@
 <!-- ========================================================= -->
+<!--                    ANIMATED TOP BANNER                    -->
+<!-- ========================================================= -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9C6CFF,100:6CF0FF&height=200&section=header&text=Sarah%20Ngoya&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Cybersecurity%20Specialist&descAlignY=58&descSize=18"
+    alt="Sarah Ngoya banner"
+  />
+</p>
+
+<!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 <p align="center">
@@ -15,15 +26,18 @@
   </picture>
 </p>
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Cybersecurity+Specialist;UI%2FUX+Designer+%7C+SOC+%7C+Red+Team+%7C+Blue+Team;Web+Development+%7C+Network+Security+%7C+AI"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+Cybersecurity+Specialist;UI%2FUX+Designer+%7C+SOC+%7C+Red+Team+%7C+Blue+Team;Web+Development+%7C+Network+Security+%7C+AI"
       alt="Typing SVG"
     />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moskysarah&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=for-the-badge&color=9C6CFF" alt="Followers" />
 </p>
 
 <!-- ========================================================= -->
@@ -44,7 +58,9 @@
   </picture>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                       ABOUT ME                            -->
@@ -52,6 +68,8 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
+<table>
+<tr>
 <td width="55%" valign="top">
 
 ### 👩‍💻 Profile
@@ -65,8 +83,9 @@
 - 🧪 Penetration Testing & Security Labs
 - 🖥️ Windows Server & Linux Administration
 - 📫 Contact: **[sarahmosky@gmail.com](mailto:sarahmosky@gmail.com)**
-- 📧 Proton Mail **[ sarahmosky@proton.me](mailto:sarahmosky@proton.me)**
+- 📧 Proton Mail **[sarahmosky@proton.me](mailto:sarahmosky@proton.me)**
 - 💼 Check out **[My Portfolio](https://portfolio-update-jade-two.vercel.app/)**
+
 </td>
 
 <td width="45%" align="center">
@@ -81,7 +100,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                    LEARNING JOURNEY                       -->
@@ -121,8 +142,9 @@
 </tr>
 </table>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                    LANGUAGES & TOOLS                      -->
@@ -132,7 +154,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,cpp,kotlin,git,github,postgres,mysql,mongodb,wordpress,supabase,firebase,figma"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,cpp,kotlin,git,github,postgres,mysql,mongodb,wordpress,supabase,firebase,figma&perline=10"
     alt="Technology Stack"
   />
 </p>
@@ -153,7 +175,9 @@
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                    CYBERSECURITY                          -->
@@ -162,9 +186,6 @@
 <h2 align="center">🛡️ Cybersecurity & Infrastructure</h2>
 
 <p align="center">
-
-<p align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="48" alt="Ubuntu" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" alt="Windows" />
@@ -174,10 +195,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" alt="PowerShell" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
 <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="48" alt="Fortinet" />
-
 </p>
 
-</p>
 <table align="center" width="100%">
 <tr>
 
@@ -229,8 +248,9 @@
 </tr>
 </table>
 
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                         PROJECTS                          -->
@@ -261,7 +281,7 @@
 
 Real-estate platform designed to simplify property discovery and rental management.
 
-**Stack:**  
+**Stack:**
 React · TypeScript · Tailwind CSS · Vite · Cloudinary
 
 </td>
@@ -272,7 +292,7 @@ React · TypeScript · Tailwind CSS · Vite · Cloudinary
 
 Modern CRM and dashboard for managing business information and workflows.
 
-**Stack:**  
+**Stack:**
 React · TypeScript · Tailwind CSS
 
 </td>
@@ -287,7 +307,7 @@ React · TypeScript · Tailwind CSS
 
 Digital platform designed for municipal reporting and information management.
 
-**Focus:**  
+**Focus:**
 Web Development · Digital Transformation
 
 </td>
@@ -310,7 +330,9 @@ Virtualized cybersecurity environments for practicing:
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                        GITHUB STATS                       -->
@@ -336,12 +358,23 @@ Virtualized cybersecurity environments for practicing:
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&card_width=700"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&card_width=700&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
----
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=moskysarah&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                       ACTIVITY                            -->
@@ -356,8 +389,6 @@ Virtualized cybersecurity environments for practicing:
     alt="GitHub Activity Graph"
   />
 </p>
-
----
 
 <!-- ========================================================= -->
 <!--                        HEATMAP                            -->
@@ -399,7 +430,9 @@ Virtualized cybersecurity environments for practicing:
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                    CYBER & TECH METRICS                   -->
@@ -425,7 +458,9 @@ Virtualized cybersecurity environments for practicing:
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                       HIGHLIGHTS                          -->
@@ -447,7 +482,9 @@ Virtualized cybersecurity environments for practicing:
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                       PERSONAL                           -->
@@ -457,15 +494,15 @@ Virtualized cybersecurity environments for practicing:
 
 <p align="center">
 
-☕ Coffee lover  
+☕ Coffee lover
 &nbsp; • &nbsp;
-🎾 Tennis fan  
+🎾 Tennis fan
 &nbsp; • &nbsp;
-🎌 Japanese culture  
+🎌 Japanese culture
 &nbsp; • &nbsp;
-🎨 UI/UX  
+🎨 UI/UX
 &nbsp; • &nbsp;
-🤖 AI  
+🤖 AI
 &nbsp; • &nbsp;
 🛡️ Cybersecurity
 
@@ -473,12 +510,14 @@ Virtualized cybersecurity environments for practicing:
 
 <p align="center">
 
-Favorite manga:  
+Favorite manga:
 <strong>Naruto · Baki · Attack on Titan</strong>
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
+</p>
 
 <!-- ========================================================= -->
 <!--                       CONNECT                             -->
@@ -543,8 +582,6 @@ Favorite manga:
 
 </p>
 
----
-
 <!-- ========================================================= -->
 <!--                         FOOTER                            -->
 <!-- ========================================================= -->
@@ -552,7 +589,7 @@ Favorite manga:
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Sarah%20Ngoya&fontSize=24&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6CF0FF,50:9C6CFF,100:6C63FF&height=120&section=footer&text=Sarah%20Ngoya&fontSize=24&fontColor=ffffff&animation=fadeIn"
     alt="Sarah Ngoya Footer"
   />
 </p>
