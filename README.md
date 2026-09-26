@@ -52,22 +52,6 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/about?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/about?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah about section"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<table>
-<tr>
 <td width="55%" valign="top">
 
 ### 👩‍💻 Profile
