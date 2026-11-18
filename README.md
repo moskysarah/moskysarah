@@ -307,11 +307,11 @@ Virtualized cybersecurity environments for practicing:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -320,17 +320,6 @@ Virtualized cybersecurity environments for practicing:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,mysql,linux,windows,git,github,vscode" />
 </p>
-
-<h3 align="center">💻 Most Used Languages</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&card_width=700&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-
 
 <!-- ========================================================= -->
 <!--                        HEATMAP                            -->
@@ -392,21 +381,7 @@ Virtualized cybersecurity environments for practicing:
 <!--                       HIGHLIGHTS                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">✨ Highlights</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/highlights?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/highlights?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah highlights"
-      width="100%"
-    />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
