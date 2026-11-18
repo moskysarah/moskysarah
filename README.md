@@ -308,7 +308,6 @@ Virtualized cybersecurity environments for practicing:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
