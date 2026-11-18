@@ -290,20 +290,36 @@ Virtualized cybersecurity environments for practicing:
 <!--                        GITHUB STATS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 🛡️ Pentesting Tools
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/stats?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/stats?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah GitHub statistics"
-      width="100%"
-    />
-  </picture>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004A7F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=moskysarah&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,mysql,linux,windows,git,github,vscode" />
 </p>
 
 <h3 align="center">💻 Most Used Languages</h3>
