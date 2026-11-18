@@ -222,19 +222,7 @@
 
 <h2 align="center">🚀 Projects & Work</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/projects?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/projects?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah projects"
-      width="100%"
-    />
-  </picture>
-</p>
+
 
 <table>
 <tr>
