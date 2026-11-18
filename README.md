@@ -137,19 +137,7 @@
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/stack?username=moskysarah&theme=aurora&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/stack?username=moskysarah&theme=aurora&style=terminal"
-      alt="moskysarah technology stack"
-      width="100%"
-    />
-  </picture>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6CF0FF&height=3&width=1000" alt="divider" />
